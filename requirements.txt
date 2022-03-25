@@ -1,0 +1,5 @@
+pandas==1.3.5
+pandas_profiling
+seaborn
+ipywidgets
+sklearn
