@@ -17,6 +17,6 @@ You might want to create a Python Virtual Environment to work in isolation witho
 
 Once you have your Virtual Environment activated, you can install the required dependencies running the following command in your terminal.
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
