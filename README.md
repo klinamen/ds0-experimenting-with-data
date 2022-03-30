@@ -1,6 +1,6 @@
 # Data Science Series ep0 - Experimenting With Data!
 
-This introductory material 
+This introductory material accompains the presentation available at https://www.slideshare.net/AndreaMontemaggio/experimenting-with-data.
 
 ## Prerequisites
 
