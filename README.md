@@ -22,6 +22,6 @@ pip install -r requirements.txt
 
 ## Running the notebook
 
-One you have your environment set up, you can open the project root folder with Visual Studio Code and look at the notebook and feel free to experiemnt.
+One you have your environment set up, you can open the project root folder with Visual Studio Code and look at the notebook.
 
 Prior to running the notebook, make sure you have selected the right Python kernel, that is the one referring to the Virtual Environment.
